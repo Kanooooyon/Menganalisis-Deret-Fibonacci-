@@ -1,1 +1,0 @@
-# Menganalisis-Deret-Fibonacci-
